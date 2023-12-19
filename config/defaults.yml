@@ -1,0 +1,9 @@
+---
+allocated_storage: 10
+engine: "postgres"
+engine_version: "14"
+instance_class: "db.t3.micro"
+name: "teste"
+username: "teste"
+password: "teste"
+skip_final_snapshot: false
